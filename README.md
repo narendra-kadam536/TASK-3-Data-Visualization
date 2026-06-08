@@ -1,4 +1,4 @@
-# TASK-3-Data-Visualization
+# CodeAlpha_Data Visualization
 # Data Visualization using Python
 
 ## Project Overview
